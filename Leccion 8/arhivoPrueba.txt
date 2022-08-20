@@ -1,0 +1,2 @@
+Prueba escritura 1 en archivo
+prueba escritura 2 en archivo
