@@ -8,7 +8,6 @@ windows = Tk()
 label = Label(text="Lista de colores")
 label.pack()
 
-elemento = StringVar()
 lista = Listbox(windows)
 
 for item in ["Rojo", "Blanco", "Azul"]:
